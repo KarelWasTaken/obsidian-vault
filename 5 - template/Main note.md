@@ -1,7 +1,7 @@
 ---
 date: "{{date}} {{time}}"
-status:
 tags:
+keys:
 ---
 
 ### References
