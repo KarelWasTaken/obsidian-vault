@@ -1,0 +1,10 @@
+# Ignore local workspace layouts that constantly change per monitor size
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# Ignore cache layers and system trash
+.obsidian/plugins/**/*.json
+.trash/
+.DS_Store
+Thumbs.db
