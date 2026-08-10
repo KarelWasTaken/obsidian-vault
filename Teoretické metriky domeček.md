@@ -29,4 +29,6 @@ Osa 4 - polohy prvků
 - čáry v okně nejsou správně umístěny (jejich průsečík neleží ve středu čtverce okna)
 
 Osa 5 - zachování tvarů
+- půlkruh střešního okna není kruhem
+- střecha volně přechází ve stěnu/strop křivkou, ne okrajem
 - 
