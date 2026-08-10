@@ -32,3 +32,6 @@ Osa 5 - zachování tvarů
 - půlkruh střešního okna není kruhem
 - střecha volně přechází ve stěnu/strop křivkou, ne okrajem
 - okno je lichoběžník/má nečtvercový tvar
+
+Osa 6 - absolutní úhly čar
+- okno je nakreslené otočené
