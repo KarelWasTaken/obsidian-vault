@@ -6,5 +6,6 @@ Osa 1
 - dveře nejsou zrcadleny, ale kopírovány
 
 Osa 2
-- linky na ose souměrnosti předlohy jsou nedotažené/přetažené
+- linky na ose souměrnosti předlohy (propojující předlohu a kresbu dítěte) jsou nedotažené/přetažené
+- středová čára střešního okna se nedotýká/přetahuje dokreslený půlkruh střešního okna
 - 
