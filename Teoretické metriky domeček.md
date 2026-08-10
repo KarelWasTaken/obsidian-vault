@@ -1,11 +1,11 @@
 Jednotlivé navrhované sledované chyby jsou rozděleny do souvisejících kategorií (v současnosti je souvislost pouze odhadovaná)
 
-Osa 1
+Osa 1 - zrcadlení
 - domeček není zrcadlen, ale kopírován
 - střešní okno není zrcadleno, ale kopírováno
 - dveře nejsou zrcadleny, ale kopírovány
 
-Osa 2 - nava
+Osa 2 - návaznost čar
 - linky na ose souměrnosti předlohy (propojující předlohu a kresbu dítěte) jsou nedotažené/přetažené
 - středová čára střešního okna se nedotýká/přetahuje dokreslený půlkruh střešního okna
 - linky na křížení střechy, stropu a stěny jsou nedotažené/přetažené
@@ -13,3 +13,5 @@ Osa 2 - nava
 - linky tvořící dveře jsou nedotažené/přetažené
 - linky tvořící okno jsou nedotažené/přetažené
 Alternativně oddělit chybu přetahování od chyby nedotahování, teoreticky mohou být způsobeny problémy v jiných kognitivních procesech.
+
+Osa 3 - 
