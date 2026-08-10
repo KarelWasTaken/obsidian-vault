@@ -34,4 +34,7 @@ Osa 5 - zachování tvarů
 - okno je lichoběžník/má nečtvercový tvar
 
 Osa 6 - absolutní úhly čar
-- okno je nakreslené otočené
+- okno je nakreslené pootočené
+- podlaha/strop nejsou horizontální
+- stěna není vertikální
+- střecha nesvírá s rovinou 
