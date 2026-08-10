@@ -24,4 +24,4 @@ Osa 3 - rovnost čar
 	- středové čáry okna
 	- obvodové čáry okna
 	- čáry dveří
-Osa 4 - vzájemné 
+Osa 4 - 
