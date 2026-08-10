@@ -6,4 +6,4 @@ Osa 1
 - dveře nejsou zrcadleny, ale kopírovány
 
 Osa 2
-- linky n
+- linky na ose souměrnosti předlohy jsou 
