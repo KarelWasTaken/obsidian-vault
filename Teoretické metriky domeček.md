@@ -15,3 +15,12 @@ Osa 2 - návaznost čar
 Alternativně oddělit chybu přetahování od chyby nedotahování, teoreticky mohou být způsobeny problémy v jiných kognitivních procesech.
 
 Osa 3 - rovnost čar
+- nerovnost/zakulacenost jednotlivých čar:
+	- střecha
+	- strop
+	- stěna
+	- podlaha
+	- středová čára střešního okna
+	- středové čáry okna
+	- obvodové čáry okna
+	- čáry dveří
