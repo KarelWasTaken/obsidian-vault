@@ -8,4 +8,4 @@ Osa 1
 Osa 2
 - linky na ose souměrnosti předlohy (propojující předlohu a kresbu dítěte) jsou nedotažené/přetažené
 - středová čára střešního okna se nedotýká/přetahuje dokreslený půlkruh střešního okna
-- 
+- linky na křížení střechy, stropu a stěny jsou nedotažené,
