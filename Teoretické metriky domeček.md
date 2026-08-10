@@ -31,4 +31,4 @@ Osa 4 - polohy prvků
 Osa 5 - zachování tvarů
 - půlkruh střešního okna není kruhem
 - střecha volně přechází ve stěnu/strop křivkou, ne okrajem
-- 
+- okno je lichoběžník/má nečtvercový tvar
