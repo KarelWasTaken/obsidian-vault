@@ -37,4 +37,4 @@ Osa 6 - absolutní úhly čar
 - okno je nakreslené pootočené
 - podlaha/strop nejsou horizontální
 - stěna není vertikální
-- střecha nesvírá s rovinou 45° úhel
+- střecha nesvírá s rovinou 45° úhel 
