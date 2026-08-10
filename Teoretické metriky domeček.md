@@ -27,3 +27,4 @@ Osa 3 - rovnost čar
 Osa 4 - polohy prvků
 - okno není správně umístěno
 - čáry v okně nejsou správně umístěny (jejich průsečík neleží ve středu čtverce okna)
+- 
