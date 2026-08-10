@@ -14,4 +14,4 @@ Osa 2 - návaznost čar
 - linky tvořící okno jsou nedotažené/přetažené
 Alternativně oddělit chybu přetahování od chyby nedotahování, teoreticky mohou být způsobeny problémy v jiných kognitivních procesech.
 
-Osa 3 - 
+Osa 3 - rovnost čar
