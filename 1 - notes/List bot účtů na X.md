@@ -4,6 +4,7 @@ tags:
   - "#inprogress"
 keys:
   - "[[X]]"
+  - "[[projekt odhalení trollů]]"
 ---
 *Obsahuje účty podezřelé z toho, že nejsou ovládány běžnými lidmi.*
 

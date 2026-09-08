@@ -1,3 +1,6 @@
 {
-  "attachmentFolderPath": "6 - full notes"
+  "attachmentFolderPath": "6 - attachments",
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1 - notes"
 }
