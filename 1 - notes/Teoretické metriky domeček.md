@@ -1,3 +1,10 @@
+---
+date: 2026-09-08 19:17
+tags:
+  - complete
+keys:
+  - "[[isophi]]"
+---
 Jednotlivé navrhované sledované chyby jsou rozděleny do souvisejících kategorií (v současnosti je souvislost pouze odhadovaná)
 
 Osa 1 - zrcadlení
@@ -11,7 +18,8 @@ Osa 2 - návaznost čar
 - linky na křížení střechy, stropu a stěny jsou nedotažené/přetažené
 - linky na křížení stěny a podlahy jsou nedotažené/přetažené
 - linky tvořící dveře jsou nedotažené/přetažené
-- linky tvořící okno jsou nedotažené/přetažené
+- linky tvořící okno jsou nedotažené/p
+
 Alternativně oddělit chybu přetahování od chyby nedotahování, teoreticky mohou být způsobeny problémy v jiných kognitivních procesech.
 
 Osa 3 - rovnost čar

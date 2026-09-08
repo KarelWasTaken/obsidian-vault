@@ -1,1 +1,0 @@
-Vedle šikmé věže vpravo vzady byl cintorin
