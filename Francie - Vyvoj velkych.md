@@ -1,0 +1,107 @@
+1789
+- absolutismus - duraz na moc panovnika
+- svolani generalnich stavu 
+- svolano ustavodarne shromazdeni
+- srpnove dekrety - likviduji slechtu, vrchnostenske soudy, kupovani uradu, cechy, vnitrni cla
+- deklarace prav cloveka a obacana - zakladni prirozenopravni principy (zejmena rovnost pred zakonem)
+	- v cele prvni ustavy 1791 (druha ustava po polsku, ktere ale pak zmizelo)
+		- opira se o delbu moci (3 - vykonna porad panovnik - konstitucni monarchie, jednokomorove zakonnodarne shromazdeni)
+		- akty podlehaji ministerske kontrasignaci
+- 1792 - prevrat, sesazeni krale - vzik prvni francouzske republiky
+	- dekret o zruseni kralovske moci
+	- kral souzen konventem, o 1 hlas odsouzen k trestu smrti
+	- 1793 král popraven
+- cerven 1793 moc jakobinu
+	- nova ustava - nevstoupila v platnost
+	- moc vykonavaji vybory konventu - vybor pro verejne blaho - maxmilian robespierre
+	- vznik revolucnich tribonalu - mimoradne trestni soudy (bez obhajcu, v podstat beze svedku) - stacilo patrit do skupiny (napr duchovni co neprisahali na civilni ustavu duchovenstva)
+	- revoluce zacina pozirat sve deti (Danton)
+- Termidorský převrat 1794 - srpen
+	- termidorska ustava 1795 - vykonna a zakonodarna moc - vykonna 5 direktoru, dvoukomorovy parlament rada starsich, rada 500
+- Konzulska ustava 1799
+	- urad 3 konzulu, rozhodujici 1. konzul
+	- senat plni roli ustavniho soudu
+	- zakonnodarny sbor
+	- tribunat
+- Ustava 12. roku 1802 - dozivotni konzulstvi napoleona
+- Vyhlaseno 1. císařství 1804
+	- dedicna hodnost cisare
+	- 5 zakoniku Napoleona
+- 1814 restaurace Burbonů
+	- Konstituční charta - návrat k dědičné monarchie (král z boží vůle)
+		- dvoukomorový zákonnodárný sbor (horni komora jmenovana panovnikem, dolni volena na zaklade majetkoveho censu)
+- 1830 červencová revoluce -> červencová monarchie (Karel X. -> Ludvík Filip)
+	- ústup od absolutistických tendencí
+	- ztráta legislativního monopolu panovníka
+	- suverenita lidu
+	- snizeni majetkoveho censu
+- únor 1848 - druhá republika
+	- konec 1848 - ustava druhe republiky
+		- jednokomorove narodni shromazdeni ve vseobecnych volbach
+		- prezident 4 roky bez znovuzvoleni
+	- prezident Ludvík Bonaparte
+- 1851
+	- 1852 nová ústava podle konzulské ústavy
+		- prodlouženo funkční období prezidenta 10 let
+		- výhradní zakonodarna iniciativa prezidenta
+- konec 1852 režim druhého císařství
+	- Ludvík Bonaparte (Napoleon III.) císařem
+	- potlačení liberálních snah
+- 1872 francie poražena pruskem - konec 2. císařství
+- 1875 ústava 3. republiky (až do 1940)
+	- inspirace pro mnoho dalsich zemi (i unorova ustava 1. republiky)
+	- 3 samostatne ustavni zakony
+	- prezident na 7 let narodnim shromazdenim
+	- 2komorovy zakonny sbor
+	- vseobecne volebni pravo
+	- prezident přestal rozpouštět národní shromáždění
+	- v krizi zmocňovací zákony
+- 1940 vichistická francie
+	- kolaborace s nacisty
+	- deportace zidovskych francouzu
+	- koncentrace moci v rukou prezidenta - Peton
+		- vykonna, zakonodarna a castecne i soudni moc
+	- de-gaule v exilu vyhlasuje prozatimni vladu republiky
+- 1946 - ústava režimu 4. republiky
+	- deklarace práv přímo v preambuli ústavy
+	- 2komorový parlament - národní shromáždění a rada republiky
+	- převaha zákonodárné moci
+- 1958 Alžírská krize
+	- návrat degaula
+	- 2 zmocňovací zákony (včetně nové ústavy)
+- 1958 režim 5. republiky - parlamentní systém s prvky prezidenstké vlády
+	- 1962 přímá volba prezidenta a posílení oprávnění
+	- 2000 - 5leté funkční období (původně 7leté)
+	- kohabitace - rozdilna strana prezidenta a vlady
+	- narodni shromazdeni (dvoukolove, vetsinove, poslanec vetsinou starosta) a senat (neprime volby)
+	- ústavní rada - ústavní soud
+
+Osvicenske myslenky kodifikace
+- systematicka, nerozporna, pristupna laikovy
+- splnovat pozadavky moderni legislativni techniky
+
+5 Francouzskych zakoniku Napoleona
+- 1804 Občanský zákoník
+	- puvodni jmeno code napoleon
+	- uvodni titul a 3 casti
+		- titul:  6 clanku (např. zákaz odepření spravedlnosti)
+		- O osobách (o svobodě osobní)
+		- O majetku (vlastnické)
+		- O způsobu nabývání vlastnictví (smluvní)
+		- Řazen mezi klasické přirozenoprávní zákonníky
+		- Stopa římského práva
+		- forma: ani prilis kazuisticky, ani obecny
+		- druhorade postaveni zeny (např. muž může rozvést pro cizoložectví, muž si milenku musí přivést přímo do domu)
+		- inspiroval Italský, Španělský, Brazilský OZ
+		- němci si nechali Rýnské právo (vycházející z Code civil)
+- 1806 Civilní proces
+	- verejnost, ustnost
+	- dispozitivni zasada - strany maji moznost disponovat predmetem sporu
+- 1807 Obchodní zákoník
+	- objektivni princip - pravo obchodnich cinnosti (nemci subjektivni)
+- 1808 Trestní proces
+	- principy verejnosti ustnosti
+- 1810 Trestní právo
+	- neni zlocinu bez zakona - pouze za ciny vymezene muze byt clovek odsouzen
+	- jedine trest v zakone vysloven muze byt udelen
+

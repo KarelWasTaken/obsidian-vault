@@ -2,5 +2,7 @@
   "attachmentFolderPath": "6 - attachments",
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "1 - notes"
+  "newFileFolderPath": "1 - notes",
+  "rightToLeft": false,
+  "spellcheck": false
 }

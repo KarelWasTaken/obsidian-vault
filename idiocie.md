@@ -1,0 +1,1 @@
+idiocie byla puvodne o tech, kteri se zajimaji jen o sebe, ne o veci verejne
